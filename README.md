@@ -1,5 +1,7 @@
 Description: A multiplayer console game of battleship written in C.
 
+![alt tag](http://mariosbikos.com/wp-content/uploads/2013/08/bb.png)
+
 Rules:
 
 1. This is a two player game.However each players uses his own computer and his own instance of this programme.
