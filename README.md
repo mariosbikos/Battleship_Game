@@ -1,6 +1,7 @@
 Description: A multiplayer console game of battleship written in C.
 
 Rules:
+
 1. This is a two player game.However each players uses his own computer and his own instance of this programme.
 2. Player will be prompted to select the initial formation of his ships for the game board.
 3. There are 6 types of formations to be placed.
