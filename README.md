@@ -1,12 +1,6 @@
-/*==============================================================================
-| Programmers: Marios Bikos, Panagiotis Chronopoulos, Nikolas Zaglis
-| Class: Introductions to Computers II, Spring 2010 ; Battle Ship Competition
-| Final Programming Assignment: Basic Game of Battleship
-| Date: May 2010
-+------------------------------------------------------------------------------
-| Description: A multiplayer console game of battleship written in C.
-==============================================================================*/
+Description: A multiplayer console game of battleship written in C.
 
+Rules:
 1. This is a two player game.However each players uses his own computer and his own instance of this programme.
 2. Player will be prompted to select the initial formation of his ships for the game board.
 3. There are 6 types of formations to be placed.
@@ -15,3 +9,9 @@
 6. When the enemy hits the player, user has to enter incoming shot coordinates(using GREEK letters).
 7. The game begins as each player tries to guess the location of the ships of the opposing player's game board, [*] hit and [X] miss.
 8. First player to guess the location of all ships wins.
+
+
+
+
+
+
