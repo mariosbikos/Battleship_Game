@@ -1,8 +1,9 @@
 # Description
 
 A multiplayer console game of battleship written in C for
-the course: "Introduction to Computers II"
+the course: "Introduction to Computers II".
 
+**This programme uses Greek Letters**
 
 # Rules
 
