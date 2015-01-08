@@ -1,6 +1,8 @@
-Description: A multiplayer console game of battleship written in C.
+# Description
 
-![alt tag](http://mariosbikos.com/wp-content/uploads/2013/08/bb.png)
+A multiplayer console game of battleship written in C for
+the course: "Introduction to Computers II"
+
 
 Rules:
 
