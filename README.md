@@ -9,7 +9,7 @@ Rules:
 6. When the enemy hits the player, user has to enter incoming shot coordinates(using GREEK letters).
 7. The game begins as each player tries to guess the location of the ships of the opposing player's game board, [*] hit and [X] miss.
 8. First player to guess the location of all ships wins.
-
+ 
 
 
 
